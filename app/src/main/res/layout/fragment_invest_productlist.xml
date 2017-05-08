@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+<com.ljr.invest_p2p.ui.MyTextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/tv_product_title"
+    android:text="Rookie银行好运当头，首投返现最高达188元"
+    android:textSize="25sp"
+    android:singleLine="true"
+    android:ellipsize="marquee"
+    android:textColor="@color/colorAccent"
+    />
+    <ListView
+        android:id="@+id/lv_product_list"
+        android:divider="@color/colorAccent"
+        android:dividerHeight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

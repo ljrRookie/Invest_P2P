@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">互惠互利</string>
+    <string name="home">首页</string>
+    <string name="invest">投资</string>
+    <string name="mine">我的资产</string>
+    <string name="more">更多</string>
+    <string-array name="invest_tab">
+        <item>全部理财</item>
+        <item>推荐理财</item>
+        <item>热门理财</item>
+    </string-array>
+    <string name="setup_gesture_code">设置手势密码</string>
+    <string name="setup_gesture_pattern">绘制解锁图案</string>
+    <string name="setup_gesture_pattern_again">再次绘制解锁图案
+</string>
+    <string name="forget_gesture_code">忘记手势密码?</string>
+    <string name="use_other_account_login">用其他账号登录</string>
+    <string name="set_gesture_pattern">绘制解锁图案</string>
+    <string name="set_gesture_pattern_reason">设置手势密码，防止他人未经授权查看</string>
+    <string name="reset_gesture_code">重新设置手势密码</string>
+</resources>
