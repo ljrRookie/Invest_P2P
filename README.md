@@ -51,7 +51,8 @@ AsyncHttpClient,ButterKnife,Picasso,ViewPagerIndicator,Banner,MpAndroidChart,Ges
 ##### 效果图：
 ![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/MineLogin.gif)
 ![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/Mine.gif)
-![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/more3.gif)
+![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/mine2.gif)
+
 ## 更多页面
 (1)注册功能：注册信息通过服务器添加到数据库中，密码使用了MD5加密<br>
 (2)手势密码（GestureLock）<br>
@@ -65,5 +66,6 @@ AsyncHttpClient,ButterKnife,Picasso,ViewPagerIndicator,Banner,MpAndroidChart,Ges
 ##### 效果图：
 ![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/more1.gif)
 ![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/more2.gif)
-![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/mine2.gif)
+![img](https://github.com/ljrRookie/Invest_P2P/blob/master/%E8%B5%84%E6%96%99/gif/more3.gif)
+
 
